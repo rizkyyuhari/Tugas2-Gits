@@ -25,7 +25,7 @@ public class SimpleApp{
         System.out.print("Dasar - Dasar Jaringan :");
         var ddj = sc.nextInt();
         var mean = calculateMean(ddp,ddj);
-        System.out.println(mean);
+
 
         char grade ;
 
