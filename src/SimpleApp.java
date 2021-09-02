@@ -1,3 +1,7 @@
+/**
+ * @author Muhammad Rizky Yuhari
+ * maap programnya cupu wkwk
+ */
 public class SimpleApp{
     public static java.util.Scanner sc = new java.util.Scanner(System.in);
 
